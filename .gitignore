@@ -1,0 +1,9 @@
+
+restapi/.classpath
+RemoteSystemsTempFiles/.project
+restapi/.project
+.DS_Store
+.metadata/
+restapi/target/
+restapi/src/test
+restapi/.settings
